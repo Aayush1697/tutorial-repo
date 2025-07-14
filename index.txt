@@ -1,1 +1,2 @@
-this is index file on 14th July 2025
+this is index file on July 14, 2025
+checking diff command
